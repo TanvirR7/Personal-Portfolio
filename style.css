@@ -1,0 +1,146 @@
+body{
+    font-family: 'Mukta', sans-serif;
+    margin: 0%;
+}
+.main{
+    width:60%;
+}
+
+.halfwidth{
+    width:30%;
+    float: left;
+    margin:5% 0% 12% 12%;
+    padding: 2%;
+    
+
+}
+.top-banner{
+    background-image: url(images/header-bg.png);
+    background-repeat: no-repeat;
+}
+section{
+    height: 500px;
+    padding-bottom: 130px;
+}
+
+.link-button{
+    text-decoration:none;
+    color: white;
+    background-image: linear-gradient(lightsalmon, tomato);
+    background-color: orangered;
+    padding:10px 20px;
+    border-radius: 5px;
+    font-weight: 800;
+}
+.bioarea{
+    background-image: url(images/biography-bg.png);
+    background-repeat: no-repeat;
+    padding-bottom: 165px;
+}
+.name{
+    color: rgb(177, 5, 148);
+    font-size: 40px;
+}
+h3{
+    font-size: 29px;
+}
+.work{
+    text-align: center;
+    font-size: 40px;
+    margin-top: 5%;
+    padding-bottom: 100px;
+
+}
+.center{
+    width: 30%;
+    display: inline-block;
+    margin: 0% 1%;
+}
+.latest-work{
+    background-image: url(images/latest-work-bg.png);
+    width: 100%;
+    height: 100%;
+    background-repeat: no-repeat;
+    margin:0;
+    background-position: 60% 30%;
+    text-align: center;
+    padding-top: 3%;
+}
+.center img:hover{
+    box-shadow: 20px 20px 20px dimgrey;
+    transition: 0.2s;
+}
+p{
+    color: rgb(54, 53, 53);
+}
+.website{
+    background-image: url(images/latest-work-bg.png);
+    width: 100%;
+    height: 100%;
+    background-repeat: no-repeat;
+    margin:0;
+    background-position: 60% 30%;
+    text-align: center;
+    padding-top: 3%;}
+    .cetagory{
+        width: 30%;
+    display: inline-block;
+    margin: 0% 1%;
+
+    }
+    .cetagory img:hover{
+        box-shadow: 20px 20px 20px dimgrey;
+    transition: 0.2s;
+
+    }
+
+    .client{
+        text-align: center;
+        padding-top: 80px;
+        background-image: url(images/footer-bg.png);
+        background-repeat: no-repeat;
+        width:100%;
+        height: 80%;
+        margin: 0% 1%;
+        background-position: 60% 40% ;
+        padding-bottom: 100px;
+    
+    }
+     .say{
+         font-size: 40px;
+     }
+    
+    .says{
+        font-size: 30px;
+        padding-top: 155px;
+    }
+    footer{
+        text-align: center;
+    }
+    .leave{
+        background-image: linear-gradient(45deg, #EC4F92, #ED4B71);
+        padding: 30px 0px;
+        border: none;
+        border-radius: 10px;
+        margin: 0 28%;
+        color: white;
+    }
+    .leave:hover{ 
+        background-image: linear-gradient(45deg, #F67062, #FC5296);
+        transition: 0.2s;
+    }
+    .email{
+        font-weight: 600;
+        font-size: 22px;
+    }
+    .copyright{
+        background-color: rgba(170, 70, 70, 0.472);
+        height: 50%;
+        margin-top: 250px;
+        padding-top: 30px;
+        text-align: center;
+    }
+    .jio{
+        color: firebrick;
+        font-weight: 900px;
+    }
